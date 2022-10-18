@@ -683,7 +683,7 @@ color: #b59f5b;
 @media (min-width: 641px) and (max-width: 1199px) {
   .header {
   position: relative;
-   background-image: url(../images/banner-bg-tablet.jpg);
+   background-image: url(images/banner-bg-tablet.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -808,16 +808,16 @@ color: #b59f5b;
 }
 
 #sad_on {
-    background-image: url(../images/trend1.jpg);
+    background-image: url(images/trend1.jpg);
 }
 #cheese {
-  background-image: url(../images/trend2.jpg);
+  background-image: url(images/trend2.jpg);
 }
 #journey {
-  background-image: url(../images/trend3.jpg);
+  background-image: url(images/trend3.jpg);
 }
 #lemon {
-  background-image: url(../images/trend4.jpg);
+  background-image: url(images/trend4.jpg);
 }
 
 .seichas_v_trende_items_border {
@@ -1053,7 +1053,7 @@ margin-left: 30px;
   width: 100%;
 }
 .search_bar_box_button {
-  background-image: url("../svg/search.svg");
+  background-image: url("svg/search.svg");
   background-color: #b59f5b;
   background-position: center;
   background-size: 50%;
@@ -1189,13 +1189,13 @@ color: #aaaaaa;
    margin: 0 auto;
 }
 #podushki { 
-  background-image: url(../images/shop-item-desk1.jpg);
+  background-image: url(images/shop-item-desk1.jpg);
 }
 #zaichik {
-  background-image: url(../images/shop-item-desk2.jpg);
+  background-image: url(images/shop-item-desk2.jpg);
 }
 #ramka {
-   background-image: url(../images/shop-item-desk3.jpg);
+   background-image: url(images/shop-item-desk3.jpg);
 }
 .made {
   position: relative;
@@ -1274,7 +1274,7 @@ color: #aaaaaa;
 }
 
 #down_side_socssylki_dribbble {
-  background-image: url(../svg/001-dribbble.svg);
+  background-image: url(svg/001-dribbble.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -1282,7 +1282,7 @@ color: #aaaaaa;
   height: 20px;
 }
 #down_side_socssylki_pinterest {
-  background-image: url(../svg/002-pinterest.svg);
+  background-image: url(svg/002-pinterest.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -1290,7 +1290,7 @@ color: #aaaaaa;
   height: 20px;
 }
 #down_side_socssylki_tumblr {
-  background-image: url(../svg/003-tumblr.svg);
+  background-image: url(svg/003-tumblr.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -1318,7 +1318,7 @@ color: #aaaaaa;
 @media (max-width: 640px) {
    .header {
   position: relative;
-  background-image: url(../images/banner-mobile.jpg);
+  background-image: url(images/banner-mobile.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -1446,16 +1446,16 @@ color: #aaaaaa;
 }
 
 #sad_on {
-    background-image: url(../images/trend1.jpg);
+    background-image: url(images/trend1.jpg);
 }
 #cheese {
-  background-image: url(../images/trend2.jpg);
+  background-image: url(images/trend2.jpg);
 }
 #journey {
-  background-image: url(../images/trend3.jpg);
+  background-image: url(images/trend3.jpg);
 }
 #lemon {
-  background-image: url(../images/trend4.jpg);
+  background-image: url(images/trend4.jpg);
 }
 
 .seichas_v_trende_items_border {
@@ -1687,7 +1687,7 @@ margin-left: 30px;
   width: 100%;
 }
 .search_bar_box_button {
-  background-image: url("../svg/search.svg");
+  background-image: url("svg/search.svg");
   background-color: #b59f5b;
   background-position: center;
   background-size: 50%;
@@ -1820,13 +1820,13 @@ color: #aaaaaa;
    margin: 0 auto;
 }
 #podushki { 
-  background-image: url(../images/shop-item-desk1.jpg);
+  background-image: url(images/shop-item-desk1.jpg);
 }
 #zaichik {
-  background-image: url(../images/shop-item-desk2.jpg);
+  background-image: url(images/shop-item-desk2.jpg);
 }
 #ramka {
-   background-image: url(../images/shop-item-desk3.jpg);
+   background-image: url(images/shop-item-desk3.jpg);
 }
 .made {
   position: relative;
@@ -1904,7 +1904,7 @@ color: #aaaaaa;
 }
 
 #down_side_socssylki_dribbble {
-  background-image: url(../svg/001-dribbble.svg);
+  background-image: url(svg/001-dribbble.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -1912,7 +1912,7 @@ color: #aaaaaa;
   height: 20px;
 }
 #down_side_socssylki_pinterest {
-  background-image: url(../svg/002-pinterest.svg);
+  background-image: url(svg/002-pinterest.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -1920,7 +1920,7 @@ color: #aaaaaa;
   height: 20px;
 }
 #down_side_socssylki_tumblr {
-  background-image: url(../svg/003-tumblr.svg);
+  background-image: url(svg/003-tumblr.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
