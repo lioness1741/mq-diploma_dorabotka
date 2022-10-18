@@ -410,7 +410,7 @@ margin-left: 30px;
   width: 100%;
 }
 .search_bar_box_button {
-  background-image: url("../svg/search.svg");
+  background-image: url("svg/search.svg");
   background-color: #b59f5b;
   background-position: center;
   background-size: 50%;
@@ -554,13 +554,13 @@ color: #b59f5b;
    margin: 0 auto;
 }
 #podushki { 
-  background-image: url(../images/shop-item-desk1.jpg);
+  background-image: url(images/shop-item-desk1.jpg);
 }
 #zaichik {
-  background-image: url(../images/shop-item-desk2.jpg);
+  background-image: url(images/shop-item-desk2.jpg);
 }
 #ramka {
-   background-image: url(../images/shop-item-desk3.jpg);
+   background-image: url(images/shop-item-desk3.jpg);
 }
 .made {
   position: relative;
@@ -640,7 +640,7 @@ color: #b59f5b;
 }
 
 #down_side_socssylki_dribbble {
-  background-image: url(../svg/001-dribbble.svg);
+  background-image: url(svg/001-dribbble.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -648,7 +648,7 @@ color: #b59f5b;
   height: 20px;
 }
 #down_side_socssylki_pinterest {
-  background-image: url(../svg/002-pinterest.svg);
+  background-image: url(svg/002-pinterest.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -656,7 +656,7 @@ color: #b59f5b;
   height: 20px;
 }
 #down_side_socssylki_tumblr {
-  background-image: url(../svg/003-tumblr.svg);
+  background-image: url(svg/003-tumblr.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
